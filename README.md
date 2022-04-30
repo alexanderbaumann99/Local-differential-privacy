@@ -1,6 +1,6 @@
 # Local-differential-privacy
 The repository deals with the following research article:<br>
-["Classification under local differential privacy"](https://arxiv.org/abs/1912.04629) from Thomas Berrett and Cristina Butucea.<br>
+["Classification under local differential privacy"](https://arxiv.org/abs/1912.04629) from Thomas Berrett and Cristina Butucea.<br><br>
 I presented this paper within a course at the Sorbonne University.<br>
 
 ---
