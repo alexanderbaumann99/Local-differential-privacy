@@ -2,7 +2,10 @@
 Within a course at the Sorbonne University I presented a paper on local differential privacy.<br>
 
 The repository deals with the following research article:<br>
+
 ["Classification under local differential privacy"] (https://arxiv.org/abs/1912.04629) from Thomas Berrett and Cristina Butucea.
+
+[I'm an inline-style link](https://www.google.com)
 
 <br>
 In the beamer presentation the key results of the paper are presented, including an outline of the proof of the main theorem.
